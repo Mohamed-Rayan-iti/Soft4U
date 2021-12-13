@@ -1,0 +1,39 @@
+.track a{
+    text-decoration: none;
+}
+
+.track-field header {
+   height: 8vh;
+}
+
+ .track-field header h4 {
+   font-size: 120%;
+   font-weight: 700;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ .track-field ul {
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+}
+
+ .track-field ul li {
+   margin-bottom: .6rem;
+}
+
+ .track-field ul .track-inside {
+   list-style-type: circle;
+}
+
+.track-field ul li a {
+    font-size: large;
+ }
+
+ .track-field ul li a:hover {
+   font-weight: 600;
+}
+
+.cursor-pointer{
+
+   cursor: pointer;
+}
